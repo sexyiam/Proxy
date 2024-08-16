@@ -1,2 +1,2 @@
 # Proxy
-Collection of Various executables that are vuln to Hijacking.
+Collection of Various executables that are vuln to dll-sideloading/hijacking.
